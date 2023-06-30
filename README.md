@@ -1,5 +1,7 @@
 Creation d'un a plication WEB qui permet de realiser diferents fonctionalites
 
+Vous trouverez dans ce depot notre plan de test
+
 Voici notre application:
 
 ![imagen](https://github.com/omartourijan/b3-infra-integ-migration_Tourijan_De_Marans_Cherif_Benali_Muller/assets/116551532/4f3f2bcf-f735-4c91-a396-1e04366e1375)
